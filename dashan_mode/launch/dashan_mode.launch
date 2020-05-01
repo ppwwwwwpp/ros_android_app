@@ -1,0 +1,10 @@
+<launch>
+
+<node pkg="dashan_mode" type="dashan_mode" name="dashan_mode" output="screen"/>
+
+
+<include file="$(find map_convert)/launch/map_convert.launch" />
+
+<include file="$(find system_status)/launch/system_status.launch" />
+
+</launch>

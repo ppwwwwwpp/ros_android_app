@@ -1,0 +1,8 @@
+<launch>
+
+
+	<node pkg="map_convert" type="base64map" name="base64map" output="screen"/>
+
+
+</launch>
+

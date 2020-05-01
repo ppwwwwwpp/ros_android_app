@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<package>
+  <name>system_status</name>
+  <version>0.0.0</version>
+  <description>The system_status package</description>
+
+
+  <maintainer email="wl@todo.todo">Laizl</maintainer>
+
+
+
+  <license>TODO</license>
+
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>dashan_msg</build_depend>
+  <build_depend>bp_std_msg</build_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>dashan_msg</run_depend>
+  <run_depend>bp_std_msg</run_depend>
+
+
+
+  <export>
+
+
+  </export>
+</package>

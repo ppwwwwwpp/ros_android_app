@@ -1,0 +1,8 @@
+<launch>
+
+
+	<node pkg="system_status" type="system_status" name="system_status" output="screen"/>
+
+
+</launch>
+
